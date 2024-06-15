@@ -4,7 +4,7 @@ This repository contains materials related to Hajime Takeda's presentation on Ca
 
 ## Contents
 
-- [Demo Code](https://github.com/takechanman1228/Effective-Uplif-Modeling/blob/main/simple_end_to_end_demo_uplift_modeling.ipynb)
+- [Demo Code](https://github.com/takechanman1228/Effective-Uplift-Modeling/blob/main/simple_end_to_end_uplift_modeling.ipynb)
 - Slide Deck (TBU)
 
 ## Related Links
