@@ -11,7 +11,7 @@ This repository contains materials related to Hajime Takeda's presentation on Ca
 
 - [CausalML](https://github.com/uber/causalml): Uplift modeling and causal inference with machine learning algorithms
 - [Criteo Uplift Prediction Dataset](https://ailab.criteo.com/criteo-uplift-prediction-dataset)
-- [Meta Learner](https://github.com/uber/causalml#meta-learner): A flexible method for estimating heterogeneous treatment effects
+- [Uplift Modeling (Wikipedia)](https://en.wikipedia.org/wiki/Uplift_modelling)
 
 ## Key References
 
