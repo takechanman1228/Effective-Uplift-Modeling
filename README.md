@@ -1,11 +1,11 @@
 # Uplift Modeling with CausalML
 
-This repository contains materials related to Hajime Takeda's presentation on Causal Machine Learning and Uplift Modeling at [PyData London 2024](https://pydata.org/london2024/). The talk demonstrates how to measure treatment effect and run uplift modeling using the CausalML.
+This repository contains materials related to Hajime Takeda's presentation on Causal Machine Learning and Uplift Modeling at [PyData London 2024](https://pydata.org/london2024/). The talk demonstrates how to measure treatment effects and perform uplift modeling using the CausalML.
 
 ## Contents
 
 - [Demo Code](https://github.com/takechanman1228/Effective-Uplift-Modeling/blob/main/simple_end_to_end_uplift_modeling.ipynb)
-- Slide Deck (TBU)
+- [Slide Deck](https://docs.google.com/presentation/d/1EMWZb-0QgiytdiL2a3IgsJjbcq1s3MiuTXewzDEfH18/edit)
 
 ## Related Links
 
