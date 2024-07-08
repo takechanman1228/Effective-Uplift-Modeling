@@ -2,8 +2,8 @@
 This repository contains materials related to Hajime Takeda's presentation on Causal Machine Learning, Meta Learners, and Uplift Modeling at [SciPy 2024](https://www.scipy2024.scipy.org/). The talk demonstrates how to measure treatment effects and perform uplift modeling using CausalML and EconML libraries
 
 ## Contents
-- [Case Study in Economics Using EconML]()
-- [Case Study in Marketing Using CausalML](https://github.com/takechanman1228/Effective-Uplift-Modeling/blob/main/simple_end_to_end_uplift_modeling.ipynb)
+- [Case Study in Economics Using EconML](https://github.com/takechanman1228/Effective-Uplift-Modeling/blob/main/simple_lalonde_analysis_econml.ipynb)
+- [Case Study in Marketing Using CausalML](https://github.com/takechanman1228/Effective-Uplift-Modeling/blob/main/simple_end_to_end_uplift_modeling_causalml.ipynb)
 - Slide Deck (TBU)
 
 ## Related Links
