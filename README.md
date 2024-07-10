@@ -4,7 +4,7 @@ This repository contains materials related to Hajime Takeda's presentation on Ca
 ## Contents
 - [Case Study in Economics Using EconML](https://github.com/takechanman1228/Effective-Uplift-Modeling/blob/main/simple_lalonde_analysis_econml.ipynb)
 - [Case Study in Marketing Using CausalML](https://github.com/takechanman1228/Effective-Uplift-Modeling/blob/main/simple_end_to_end_uplift_modeling_causalml.ipynb)
-- Slide Deck (TBU)
+- [Slide Deck](https://docs.google.com/presentation/d/1XFM0j_D_5Qa1S3lEkTQcVKO4ONwOY5GchZ4KImgl-5Y/edit?usp=sharing)
 
 ## Related Links
 - [EconML](https://github.com/py-why/EconML) : A Python Package for ML-Based Heterogeneous Treatment Effects Estimation
